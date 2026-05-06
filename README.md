@@ -13,4 +13,4 @@ Data preprocessing included imputation, outlier removal (IQR), and correlation a
 
 Additional models like Random Forest and SVM were tested, with Random Forest outperforming others (89.7% accuracy) and showing high model stability via bootstrap sampling.
 
-The project showcases a full machine learning pipeline—data cleaning, EDA, modeling, dimensionality reduction, and clustering—highlighting how different algorithms reveal structure and improve prediction in complex datasets.
+The project showcases a full machine learning pipeline, data cleaning, EDA, modeling, dimensionality reduction, and clustering, highlighting how different algorithms reveal structure and improve prediction in complex datasets.
